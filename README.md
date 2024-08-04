@@ -1,2 +1,1 @@
-# MyTemplate
-Template with webpack and FontAwesome link
+# Async and API Practice Project
